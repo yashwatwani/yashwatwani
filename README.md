@@ -9,7 +9,7 @@ Data scientist and AI engineer in Bengaluru. 8 years of turning data into decisi
 | [research-agent](https://github.com/yashwatwani/research-agent) | Research agent that searches the web, builds a knowledge graph and writes a cited report, with evals and guardrails | Python, OpenAI, MCP, pgvector, Graph RAG, Arize Phoenix |
 | [ai-code-doc-generator](https://github.com/yashwatwani/ai-code-doc-generator) | Paste code, get documentation. Deployed full stack with rate limiting, evaluation and tracing ([live](https://ai-code-doc-generator.vercel.app)) | FastAPI, OpenAI, ChromaDB, Langfuse, Next.js |
 | [sql-query-generator](https://github.com/yashwatwani/sql-query-generator) | Ask a business question in plain English, get the SQL, a chart and a summary | Flask, GPT-4o, SQLite, Chart.js |
-| [pothole-classifier](https://github.com/yashwatwani/pothole-classifier) | Offline pothole detector: 89.5% test accuracy at ~3 ms per image on CPU, benchmarked against a 9B open model | PyTorch, timm, ONNX Runtime, FastAPI |
+| [pothole-classifier](https://github.com/yashwatwani/pothole-classifier) | Offline pothole detector for phone photos and dashcam video, tested on Indian roads: 89% accuracy there (up from 27%), 7.5 ms per image on CPU, beats a 9B open model | PyTorch, timm, ONNX Runtime, OpenCV, FastAPI |
 | [facility_usage](https://github.com/yashwatwani/facility_usage) | Leakage-safe pipeline predicting a resident's next facility booking (what, when, nudge time) | pandas, scikit-learn, LightGBM |
 | [PrivaChat-Law-Demo](https://github.com/yashwatwani/PrivaChat-Law-Demo) | Private, local chatbot over Indian Penal Code documents. Nothing leaves the machine | LlamaIndex, Ollama, ChromaDB, Streamlit |
 
